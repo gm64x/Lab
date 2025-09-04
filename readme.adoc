@@ -1,14 +1,4 @@
-= Lab
-//:toc: macro
-:icons: font
-:github-url: https://github.com/gm64x/Lab
-
-[.lead]
-Collection of prototypes, code snippets, and experimental work, including collaborations with friends and colleagues.
-
-toc::[]
-
-== Overview
+== Lab - Overview
 
 This repository contains a variety of small projects, experiments, and code samples. It serves as a sandbox for learning, prototyping, and sharing ideas.
 
