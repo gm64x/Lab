@@ -1,7 +1,7 @@
 = Lab
-:toc: macro
+//:toc: macro
 :icons: font
-:github-url: https://github.com/yourusername/Lab
+:github-url: https://github.com/gm64x/Lab
 
 [.lead]
 Collection of prototypes, code snippets, and experimental work, including collaborations with friends and colleagues.
