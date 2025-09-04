@@ -1,0 +1,39 @@
+= Lab
+:toc: macro
+:icons: font
+:github-url: https://github.com/yourusername/Lab
+
+[.lead]
+Collection of prototypes, code snippets, and experimental work, including collaborations with friends and colleagues.
+
+toc::[]
+
+== Overview
+
+This repository contains a variety of small projects, experiments, and code samples. It serves as a sandbox for learning, prototyping, and sharing ideas.
+
+== Structure
+
+- `prototypes/` — Experimental features and proof-of-concept code.
+- `snippets/` — Useful code snippets and utilities.
+- `collaborations/` — Projects and experiments with friends and colleagues.
+- `docs/` — Documentation and notes.
+
+== Getting Started
+
+1. Clone the repository:
++
+----
+git clone {github-url}
+cd Lab
+----
+
+2. Explore the folders for projects and code samples.
+
+== Contributing
+
+Contributions, suggestions, and collaborations are welcome! Please open an issue or submit a pull request.
+
+== License
+
+This repository is licensed under the MIT License. See the `LICENSE` file for details.
