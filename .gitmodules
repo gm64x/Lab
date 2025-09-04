@@ -1,0 +1,18 @@
+[submodule "collaborations/wSun/NetStack"]
+	path = collaborations/wSun/NetStack
+	url = https://github.com/Sunref/COMPUTER-NETWORKS---SBVREDC
+[submodule "collaborations/wSun/platypus.js"]
+	path = collaborations/wSun/platypus.js
+	url = https://github.com/Sunref/platypus.js.git
+[submodule "collaborations/wSun/Greetique"]
+	path = collaborations/wSun/Greetique
+	url = https://github.com/Sunref/Greetique.git
+[submodule "collaborations/wSun/MiDepth"]
+	path = collaborations/wSun/MiDepth
+	url = https://github.com/Sunref/MiDepth.git
+[submodule "collaborations/wSun/Parser-Project"]
+	path = collaborations/wSun/Parser-Project
+	url = https://github.com/Sunref/Parser-Project.git
+[submodule "collaborations/wSun/Scanner-Project"]
+	path = collaborations/wSun/Scanner-Project
+	url = https://github.com/Sunref/Scanner-Project.git
